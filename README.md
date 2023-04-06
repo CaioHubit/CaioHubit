@@ -3,7 +3,7 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Caio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Caio-pic" height="150" style="border-radius:50px;" src="https://yt3.googleusercontent.com/i6DX4lCdrfb1o0KrdE9di2_4Toy5uLYdyLpLSfq4DdraBbND7wnicpmtnXoaWZ-I4AyMXs4qKw=s176-c-k-c0x00ffffff-no-rj">
+  <img align="right" alt="Caio-pic" height="150" style="border-radius:50px;" src="https://sharktastica.co.uk/resources/images/terminals/ibm_3178-C2.jpg">
 </div>
   
   ##
