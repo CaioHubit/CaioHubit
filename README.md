@@ -2,7 +2,11 @@
 <p> Olá, eu sou Caio! Sou um indivíduo curioso e apaixonado por criar coisas incríveis. Como cientista, estou sempre em busca de soluções inovadoras e criativas para desafios complexos. Acredito que a curiosidade e a experimentação sejam as minhas maiores parceiras de motivação, e é por isso que estou sempre explorando novas ideias e conceitos em meus projetos. Aqui no GitHub, você encontrará meus projetos mais recentes, desde pequenos utilitários até projetos mais ambiciosos que desafiam as fronteiras da tecnologia e da inovação. Venha me acompanhar nessa jornada em busca de criar coisas incríveis e revolucionárias(ou quase isso)!"
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Caio-Python" height="40" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/> 
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" height="40"/>
+
+<p align="justify">
   <img align="right" alt="Caio-pic" height="200" style="border-radius:60px;" src="https://sharktastica.co.uk/resources/images/terminals/ibm_3178-C2.jpg">
 </div>
   
