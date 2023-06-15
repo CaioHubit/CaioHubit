@@ -11,7 +11,7 @@
 </div>
   <div align="center">
   <a href="https://github.com/CaioHubit">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=CaioHubit&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/><img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioHubit&layout=compact&langs_count=7&theme=prussian"/>
+  <img height="80em" src="https://github-readme-stats.vercel.app/api?username=CaioHubit&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/><img height="80em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioHubit&layout=compact&langs_count=7&theme=prussian"/>
 </div>
 
 <div> 
