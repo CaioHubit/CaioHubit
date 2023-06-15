@@ -7,11 +7,11 @@
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" height="40"/>
 
 <p align="justify">
-  <img align="right" alt="Caio-pic" height="150" style="border-radius:60px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Tatung-einstein-computer.png/868px-Tatung-einstein-computer.png">
+  <img align="right" alt="Caio-pic" height="200" style="border-radius:60px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Tatung-einstein-computer.png/868px-Tatung-einstein-computer.png">
 </div>
   <div align="center">
   <a href="https://github.com/CaioHubit">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=CaioHubit&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaioHubit&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
 </div>
 
 <div> 
