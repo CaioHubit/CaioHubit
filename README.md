@@ -7,7 +7,7 @@
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" height="40"/>
 
 <p align="justify">
-  <img align="right" alt="Caio-pic" height="200" style="border-radius:60px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Tatung-einstein-computer.png/868px-Tatung-einstein-computer.png">
+  <img align="right" alt="Caio-pic" height="180" style="border-radius:60px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Tatung-einstein-computer.png/868px-Tatung-einstein-computer.png">
 </div>
   <div align="center">
   <a href="https://github.com/CaioHubit">
