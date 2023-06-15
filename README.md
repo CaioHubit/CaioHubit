@@ -9,9 +9,11 @@
 <p align="justify">
   <img align="right" alt="Caio-pic" height="200" style="border-radius:60px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Tatung-einstein-computer.png/868px-Tatung-einstein-computer.png">
 </div>
-  
-  ##
- 
+  <div align="center">
+  <a href="https://github.com/CaioHubit">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=CaioHubit&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/><img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioHubit&layout=compact&langs_count=7&theme=prussian"/>
+</div>
+
 <div> 
   <a href="https://www.youtube.com/@cddvd9167" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/cdescolado/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
